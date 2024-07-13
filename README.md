@@ -1,23 +1,3 @@
----
-pretty_name: WutheringWaves Dataset
-license: GPL3.0 License
-
-tags:
-- TTS
-- WutheringWaves
-- 鸣潮
- 
-audio:
-  text-to-speech:
-    language:
-      - zh
-      - ja
-      - en
-      - ko
-    sampling_rate:
-      - "48000"
----
-
 # Wuthering Waves Datasets For SVC/SVS/TTS
 
 ### 注意事项
