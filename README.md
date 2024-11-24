@@ -1,59 +1,71 @@
 # Wuthering Waves Datasets For SVC/SVS/TTS
 **English** | [**简体中文**](./README_CN.md)
 
-### Notes
+## Notice
 
-1. **All rights to the voice datasets in this repository belong to [KUROGAME](https://www.kurogames.com/).**
-2. **The datasets are only for secondary creation & model training and must not be used for any commercial purposes. It is prohibited to produce content that violates laws and regulations with models trained using datasets from this repository, and redistribution is not allowed. If misuse is discovered, public access will be terminated!**
-3. **If you use the datasets from this repository for training models, you are welcome to mention this repository's address in your work's description.**
+Please Refer：[https://www.bilibili.com/read/cv36652528](https://www.bilibili.com/read/cv36652528)
 
-### Update Log
-
-|    Date    |                 Updates                  |
-| :--------: | :---------------------------------------: |
-| 2024.10.08 | Update Complete Pack and Character Pack in Chinese, Japanese, English, Korean to 1.3|
-
-### Current Game Version
+## Game Version
 
 |                          | Chinese | Japanese | English | Korean |
 | :----------------------: | :--: | :--: | :--: | :--: |
-| **Voice Dataset** (Character Pack) | 1.3  | 1.3  | 1.3  | 1.3  |
-|  **Voice Dataset**(Complete Pack)  | 1.3  | 1.3  | 1.3  | 1.3  |
+| **Character Pack** | 1.4  | 1.4  | 1.4  | 1.4  |
+|  **Full Pack**  | 1.4  | 1.4  | 1.4  | 1.4  |
 
-### Dataset Download
+## Donload
+### Character Pack
 
-|              |                             Chinese                             |                             Japanese                             |                             English                             |                             Korean                             |
-| :----------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| **Character Pack** | [Click to get](https://pan.ai-hobbyist.com/GL/Wuthering%20Waves%20Datasets/%E4%B8%AD%E6%96%87%20-%20Chinese) | [Click to get](https://pan.ai-hobbyist.com/GL/Wuthering%20Waves%20Datasets/%E6%97%A5%E8%AF%AD%20-%20Japanese) | [Click to get](https://pan.ai-hobbyist.com/GL/Wuthering%20Waves%20Datasets/%E8%8B%B1%E8%AF%AD%20-%20English) | [Click to get](https://pan.ai-hobbyist.com/GL/Wuthering%20Waves%20Datasets/%E9%9F%A9%E8%AF%AD%20-%20Korean) |
-|  **Complete Pack**  | [Click to get](https://modelscope.cn/datasets/aihobbyist/WutheringWaves_Dataset/resolve/master/WutheringWaves1.3_CN.7z) | [Click to get](https://modelscope.cn/datasets/aihobbyist/WutheringWaves_Dataset/resolve/master/WutheringWaves1.3_JP.7z) | [Click to get](https://modelscope.cn/datasets/aihobbyist/WutheringWaves_Dataset/resolve/master/WutheringWaves1.3_EN.7z) | [Click to get](https://modelscope.cn/datasets/aihobbyist/WutheringWaves_Dataset/resolve/master/WutheringWaves1.3_KR.7z) |
+>#### Chinese
+>[https://pan.ai-hobbyist.com/Wuthering%20Waves%20Datasets/%E5%88%86%E8%A7%92%E8%89%B2%E5%8C%85/%E4%B8%AD%E6%96%87](https://pan.ai-hobbyist.com/Wuthering%20Waves%20Datasets/%E5%88%86%E8%A7%92%E8%89%B2%E5%8C%85/%E4%B8%AD%E6%96%87)
 
-### Commonly Used Training Projects for the Dataset (Contributions Welcome)
+>#### Japanese
+>[https://pan.ai-hobbyist.com/Wuthering%20Waves%20Datasets/%E5%88%86%E8%A7%92%E8%89%B2%E5%8C%85/%E6%97%A5%E8%AF%AD](https://pan.ai-hobbyist.com/Wuthering%20Waves%20Datasets/%E5%88%86%E8%A7%92%E8%89%B2%E5%8C%85/%E6%97%A5%E8%AF%AD)
 
-|      Name      |                             Repository                             |
-| :------------: | :----------------------------------------------------------: |
-|      Vits      |             https://github.com/CjangCjengh/vits              |
-|      Bert-Vits      |             https://github.com/fishaudio/Bert-VITS2             |
-|     Sovits     | [https://github.com/svc-develop-team/so-vits-svc](https://github.com/svc-develop-team/so-vits-svc) |
-| Fish Diffusion |         https://github.com/fishaudio/fish-diffusion          |
-|    DDSP-SVC    |              https://github.com/yxlllc/DDSP-SVC              |
-|    Diff-SVC    |            https://github.com/prophesier/diff-svc            |
-|      RVC       | https://github.com/liujing04/Retrieval-based-Voice-Conversion-WebUI |
-| GPT-Sovits | [https://github.com/RVC-Boss/GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS) |
-|   DiffSinger   |            https://github.com/openvpi/DiffSinger             |
+>#### English
+>[https://pan.ai-hobbyist.com/Wuthering%20Waves%20Datasets/%E5%88%86%E8%A7%92%E8%89%B2%E5%8C%85/%E8%8B%B1%E8%AF%AD](https://pan.ai-hobbyist.com/Wuthering%20Waves%20Datasets/%E5%88%86%E8%A7%92%E8%89%B2%E5%8C%85/%E8%8B%B1%E8%AF%AD)
 
-### Contact Information
+>#### Korean
+>[https://pan.ai-hobbyist.com/Wuthering%20Waves%20Datasets/%E5%88%86%E8%A7%92%E8%89%B2%E5%8C%85/%E9%9F%A9%E8%AF%AD](https://pan.ai-hobbyist.com/Wuthering%20Waves%20Datasets/%E5%88%86%E8%A7%92%E8%89%B2%E5%8C%85/%E9%9F%A9%E8%AF%AD)
 
-|      Contact Method      |                            Links                            |
+### Full Pack
+>#### Chinese
+> ```bash 
+>wget -c https://modelscope.cn/datasets/aihobbyist/WutheringWaves_Dataset/resolve/master/WutheringWaves1.4_CN.7z
+>```
+
+>#### Japanese
+> ```bash 
+>wget -c https://modelscope.cn/datasets/aihobbyist/WutheringWaves_Dataset/resolve/master/WutheringWaves1.4_JP.7z
+>```
+
+>#### English
+> ```bash 
+>wget -c https://modelscope.cn/datasets/aihobbyist/WutheringWaves_Dataset/resolve/master/WutheringWaves1.4_EN.7z
+>```
+
+>#### Korean
+> ```bash 
+>wget -c https://modelscope.cn/datasets/aihobbyist/WutheringWaves_Dataset/resolve/master/WutheringWaves1.4_KR.7z
+>```
+
+## Updates
+
+|    Date    |                 Update                  |
+| :--------: | :---------------------------------------: |
+| 2024.11.24 | Wuthering Waves 1.4 Character Pack and Full Pack. Include Chinese, Japanese, English and Korean Voices|
+
+
+## Contact us
+
+|      Contact Method      |                            Link                            |
 | :----------------: | :----------------------------------------------------------: |
-| AI Hobbyist QQ Group | [Click to join the chat group 【AI Hobbyist Group】](https://qm.qq.com/q/XrzbluTUAs) |
-| Discord | [https://discord.gg/eGzeMgYSPD](https://discord.gg/eGzeMgYSPD) |
-|   AI Hobbyist Community   | [https://www.ai-hobbyist.com/](https://www.ai-hobbyist.com/) |
-|         QQ         |                          2544390577                          |
+| AI Hobbyist QQ Group	 | [AI Hobbyist QQ Group	](https://qm.qq.com/q/Ii0OLQTF2U) |
+| AI Hibbyist Discord | [AI Hibbyist Discord](https://discord.gg/eGzeMgYSPD) |
+|   AI Hobbyist Community  | [https://www.ai-hobbyist.com/](https://www.ai-hobbyist.com/) |
+|         QQ Number         |                          2544390577                          |
 |        Email        |                    tsuneki_hikari@qq.com                     |
-|        More Information        | [https://www.bilibili.com/read/cv36014867/](https://www.bilibili.com/read/cv36014867/) |
+|        Release Article        |                    [https://www.bilibili.com/read/cv36092527](https://www.bilibili.com/read/cv36092527)                     |
 
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=AI-Hobbyist/WutheringWaves_Datasets&type=Date)](https://star-history.com/#AI-Hobbyist/WutheringWaves_Datasets&Date)
-
-``
