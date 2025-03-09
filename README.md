@@ -9,8 +9,8 @@ Please Refer：[https://www.bilibili.com/read/cv36652528](https://www.bilibili.c
 
 |                          | Chinese | Japanese | English | Korean |
 | :----------------------: | :--: | :--: | :--: | :--: |
-| **Character Pack** | 1.4  | 1.4  | 1.4  | 1.4  |
-|  **Full Pack**  | 1.4  | 1.4  | 1.4  | 1.4  |
+| **Character Pack** | 2.1  | 2.1  | 2.1  | 2.1  |
+|  **Full Pack**  | 2.1  | 2.1  | 2.1  | 2.1  |
 
 ## Donload
 ### Character Pack
@@ -30,29 +30,29 @@ Please Refer：[https://www.bilibili.com/read/cv36652528](https://www.bilibili.c
 ### Full Pack
 >#### Chinese
 > ```bash 
->wget -c https://modelscope.cn/datasets/aihobbyist/WutheringWaves_Dataset/resolve/master/WutheringWaves1.4_CN.7z
+>wget -c https://modelscope.cn/datasets/aihobbyist/WutheringWaves_Dataset/resolve/master/WutheringWaves2.1_CN.7z
 >```
 
 >#### Japanese
 > ```bash 
->wget -c https://modelscope.cn/datasets/aihobbyist/WutheringWaves_Dataset/resolve/master/WutheringWaves1.4_JP.7z
+>wget -c https://modelscope.cn/datasets/aihobbyist/WutheringWaves_Dataset/resolve/master/WutheringWaves2.1_JP.7z
 >```
 
 >#### English
 > ```bash 
->wget -c https://modelscope.cn/datasets/aihobbyist/WutheringWaves_Dataset/resolve/master/WutheringWaves1.4_EN.7z
+>wget -c https://modelscope.cn/datasets/aihobbyist/WutheringWaves_Dataset/resolve/master/WutheringWaves2.1_EN.7z
 >```
 
 >#### Korean
 > ```bash 
->wget -c https://modelscope.cn/datasets/aihobbyist/WutheringWaves_Dataset/resolve/master/WutheringWaves1.4_KR.7z
+>wget -c https://modelscope.cn/datasets/aihobbyist/WutheringWaves_Dataset/resolve/master/WutheringWaves2.1_KR.7z
 >```
 
 ## Updates
 
 |    Date    |                 Update                  |
 | :--------: | :---------------------------------------: |
-| 2024.11.24 | Wuthering Waves 1.4 Character Pack and Full Pack. Include Chinese, Japanese, English and Korean Voices|
+| 2025.03.09 | Wuthering Waves 2.1 Character Pack and Full Pack. Include Chinese, Japanese, English and Korean Voices|
 
 
 ## Contact us
