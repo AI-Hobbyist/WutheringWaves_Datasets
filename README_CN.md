@@ -9,8 +9,8 @@
 
 |                          | 中文 | 日语 | 英语 | 韩语 |
 | :----------------------: | :--: | :--: | :--: | :--: |
-| **语音数据集**(分角色包) | 2.1  | 2.1  | 2.1  | 2.1  |
-|  **语音数据集**(完整包)  | 2.1  | 2.1  | 2.1  | 2.1  |
+| **语音数据集**(分角色包) | 2.2  | 2.2  | 2.2  | 2.2  |
+|  **语音数据集**(完整包)  | 2.2  | 2.2  | 2.2  | 2.2  |
 
 ## 数据集下载
 ### 分角色包
@@ -29,22 +29,22 @@
 ### 完整包
 >#### 汉语语音包
 > ```bash 
->wget -c https://modelscope.cn/datasets/aihobbyist/WutheringWaves_Dataset/resolve/master/WutheringWaves2.1_CN.7z
+>wget -c https://modelscope.cn/datasets/aihobbyist/WutheringWaves_Dataset/resolve/master/WutheringWaves2.2_CN.7z
 >```
 
 >#### 日语语音包
 > ```bash 
->wget -c https://modelscope.cn/datasets/aihobbyist/WutheringWaves_Dataset/resolve/master/WutheringWaves2.1_JP.7z
+>wget -c https://modelscope.cn/datasets/aihobbyist/WutheringWaves_Dataset/resolve/master/WutheringWaves2.2_JP.7z
 >```
 
 >#### 英语语音包
 > ```bash 
->wget -c https://modelscope.cn/datasets/aihobbyist/WutheringWaves_Dataset/resolve/master/WutheringWaves2.1_EN.7z
+>wget -c https://modelscope.cn/datasets/aihobbyist/WutheringWaves_Dataset/resolve/master/WutheringWaves2.2_EN.7z
 >```
 
 >#### 韩语语音包
 > ```bash 
->wget -c https://modelscope.cn/datasets/aihobbyist/WutheringWaves_Dataset/resolve/master/WutheringWaves2.1_KR.7z
+>wget -c https://modelscope.cn/datasets/aihobbyist/WutheringWaves_Dataset/resolve/master/WutheringWaves2.2_KR.7z
 >```
 
 ### Git Clone
@@ -53,7 +53,7 @@
 
 |    日期    |                 更新内容                  |
 | :--------: | :---------------------------------------: |
-| 2024.03.09| 更新鸣潮2.1中日英韩全角色语音分角色包、完整包 |
+| 2025.04.22| 更新鸣潮2.2中日英韩全角色语音分角色包、完整包 |
 
 
 ## 联系方式
