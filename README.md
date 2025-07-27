@@ -15,17 +15,7 @@ Please Refer：[https://www.bilibili.com/read/cv36652528](https://www.bilibili.c
 ## Donload
 ### Character Pack
 
->#### Chinese
->[https://pan.ai-hobbyist.com/Wuthering%20Waves%20Datasets/%E5%88%86%E8%A7%92%E8%89%B2%E5%8C%85/%E4%B8%AD%E6%96%87](https://pan.ai-hobbyist.com/Wuthering%20Waves%20Datasets/%E5%88%86%E8%A7%92%E8%89%B2%E5%8C%85/%E4%B8%AD%E6%96%87)
-
->#### Japanese
->[https://pan.ai-hobbyist.com/Wuthering%20Waves%20Datasets/%E5%88%86%E8%A7%92%E8%89%B2%E5%8C%85/%E6%97%A5%E8%AF%AD](https://pan.ai-hobbyist.com/Wuthering%20Waves%20Datasets/%E5%88%86%E8%A7%92%E8%89%B2%E5%8C%85/%E6%97%A5%E8%AF%AD)
-
->#### English
->[https://pan.ai-hobbyist.com/Wuthering%20Waves%20Datasets/%E5%88%86%E8%A7%92%E8%89%B2%E5%8C%85/%E8%8B%B1%E8%AF%AD](https://pan.ai-hobbyist.com/Wuthering%20Waves%20Datasets/%E5%88%86%E8%A7%92%E8%89%B2%E5%8C%85/%E8%8B%B1%E8%AF%AD)
-
->#### Korean
->[https://pan.ai-hobbyist.com/Wuthering%20Waves%20Datasets/%E5%88%86%E8%A7%92%E8%89%B2%E5%8C%85/%E9%9F%A9%E8%AF%AD](https://pan.ai-hobbyist.com/Wuthering%20Waves%20Datasets/%E5%88%86%E8%A7%92%E8%89%B2%E5%8C%85/%E9%9F%A9%E8%AF%AD)
+**All Characters:** [https://res.acgnai.top](https://res.acgnai.top/)
 
 ### Full Pack
 >#### Chinese

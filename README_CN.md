@@ -14,17 +14,8 @@
 
 ## 数据集下载
 ### 分角色包
->#### 汉语语音包
->[https://pan.ai-hobbyist.com/Wuthering%20Waves%20Datasets/%E5%88%86%E8%A7%92%E8%89%B2%E5%8C%85/%E4%B8%AD%E6%96%87](https://pan.ai-hobbyist.com/Wuthering%20Waves%20Datasets/%E5%88%86%E8%A7%92%E8%89%B2%E5%8C%85/%E4%B8%AD%E6%96%87)
 
->#### 日语语音包
->[https://pan.ai-hobbyist.com/Wuthering%20Waves%20Datasets/%E5%88%86%E8%A7%92%E8%89%B2%E5%8C%85/%E6%97%A5%E8%AF%AD](https://pan.ai-hobbyist.com/Wuthering%20Waves%20Datasets/%E5%88%86%E8%A7%92%E8%89%B2%E5%8C%85/%E6%97%A5%E8%AF%AD)
-
->#### 英语语音包
->[https://pan.ai-hobbyist.com/Wuthering%20Waves%20Datasets/%E5%88%86%E8%A7%92%E8%89%B2%E5%8C%85/%E8%8B%B1%E8%AF%AD](https://pan.ai-hobbyist.com/Wuthering%20Waves%20Datasets/%E5%88%86%E8%A7%92%E8%89%B2%E5%8C%85/%E8%8B%B1%E8%AF%AD)
-
->#### 韩语语音包
->[https://pan.ai-hobbyist.com/Wuthering%20Waves%20Datasets/%E5%88%86%E8%A7%92%E8%89%B2%E5%8C%85/%E9%9F%A9%E8%AF%AD](https://pan.ai-hobbyist.com/Wuthering%20Waves%20Datasets/%E5%88%86%E8%A7%92%E8%89%B2%E5%8C%85/%E9%9F%A9%E8%AF%AD)
+**所有角色:** [https://res.acgnai.top](https://res.acgnai.top/)
 
 ### 完整包
 >#### 汉语语音包
